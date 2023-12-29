@@ -47,6 +47,7 @@
 [visualization.ipynb](./visualization.ipynb)
 ## 데이터 시각화 결과 예시
 - 모든 시각화 결과는 [Busan Data Journey](https://pepper-origami-952.notion.site/Busan-Data-Journey-ab7977d611ec4f25955f1ad6af337a3e?pvs=4) 에서 확인 가능합니다.
+
 ### 예시
 <img src="./ex_plot/korea.png">
 <img src="./ex_plot/card.png">
