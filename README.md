@@ -42,3 +42,11 @@
 - 코로나 이후 더 증가한 소비 항목은 없을까?
 - 가설 4: 코로나 이후 보복 소비로 인해 증가한 소비 항목들이 존재한다.
 - 가설5 : 기장군의 롯데월드 개장으로 인해 관광 유원시설이 증가할 것이다.
+
+## 데이터 시각화 결과 예시
+- 모든 시각화 결과는 [Busan Data Journey](https://pepper-origami-952.notion.site/Busan-Data-Journey-ab7977d611ec4f25955f1ad6af337a3e?pvs=4) 에서 확인 가능합니다.
+### 예시
+<img src="./ex_plot/korea.png">
+<img src="./ex_plot/card.png">
+<img src="./ex_plot/card_2018.png">
+<img src="./ex_plot/inc_consu.png">
