@@ -44,7 +44,7 @@
 - 가설5 : 기장군의 롯데월드 개장으로 인해 관광 유원시설이 증가할 것이다.
 
 ## 분석 및 코드
-[visualization.ipynb]("./visualization.ipynb")
+[visualization.ipynb](./visualization.ipynb)
 ## 데이터 시각화 결과 예시
 - 모든 시각화 결과는 [Busan Data Journey](https://pepper-origami-952.notion.site/Busan-Data-Journey-ab7977d611ec4f25955f1ad6af337a3e?pvs=4) 에서 확인 가능합니다.
 ### 예시
